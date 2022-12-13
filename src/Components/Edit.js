@@ -105,7 +105,7 @@ const his=useNavigate();
             <span style={{color:"red"}}>{myFormik.errors.job}</span>
         </div>
         <div className="col-lg-3 mt-3">
-        <input type="submit" style={{marginLeft:"30rem"}} value="Create"  className="btn btn-primary"></input>
+        <input type="submit" style={{marginLeft:"30rem"}} value="Update"  className="btn btn-primary"></input>
        </div>
     </div>
    </form>
